@@ -6,8 +6,7 @@ class ReverseString {
         char ch;
        
       System.out.println("Original word: " + str);
-
-       
+  
       for (int i=0; i<str.length(); i++)
       {
    	  //extracts each character
